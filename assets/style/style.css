@@ -70,6 +70,7 @@ button:focus {
 }
 
 #message{
+    font-size: 90%;
     display: inline-block;
     width: 20%;
 }
